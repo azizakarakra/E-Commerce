@@ -1,0 +1,12 @@
+.image {
+    height: 250px;
+    width: 200px;
+}
+
+.title{
+  font-size:medium;
+}
+
+.paragraph{
+    font-size: small;
+}

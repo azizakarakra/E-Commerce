@@ -1,0 +1,28 @@
+.products{
+
+    padding: 20px;
+    text-align: center;
+padding-bottom: 0;
+    
+}
+
+.products img{
+
+    width: 150px;
+   height: 200px;
+   text-align: center;
+  
+}
+
+.cardTitle{
+    font-size: 15px;
+}
+
+.myCardBody {
+    overflow: hidden;
+    height: 30vh;
+}
+
+.h3{
+    font-size: medium;
+}
